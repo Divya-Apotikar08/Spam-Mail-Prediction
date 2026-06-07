@@ -139,11 +139,11 @@ Spam_Mail_Prediction_using_Machine_Learning.ipynb
 
 ### Model Comparison
 
-![Model Comparison](model_comparison.png)
+![Model Comparison](model_comparision.png)
 
 ### Spam Email Examples
 
-![Spam Email Examples](spam_emails.png)
+![Spam Email Examples](spam_mails.png)
 
 ---
 
